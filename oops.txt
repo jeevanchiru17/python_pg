@@ -1,0 +1,35 @@
+The Object Oriented Progamming
+
+wht is oops ,.. wht is oopss
+
+THE Progaming,.,.,
+
+Progaming is give computer set of step by step instruction to to achive a goal ,../
+
+to solve a problem ,. and to perfrom tasks
+in a sequtianl oder
+
+core actoin of Progaming are to
+1. analyze a problem
+2. design a soluation 
+3. write a code
+4. test 
+5. maintain,.
+
+
+outcome
+automated,. repeatable ,. realiable execution of tasks
+
+type of programing 
+Object Oriented Progamming 
+Procedural programing
+functional programing
+declartive 
+logic
+event-driven
+concurrent/parallel
+scripting
+dataflow/reactive
+constaint 
+aspect Oriented
+array/vectorized 

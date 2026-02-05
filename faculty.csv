@@ -1,0 +1,1001 @@
+Experience,Designation,Salary,Publications,BookChapters,Consultancy,Funds,Membership,TextData
+1,Assistant,32000,1,0,5000,10000,0,good academic contributor
+2,Assistant,34000,2,1,10000,20000,0,excellent teacher and researcher
+3,Assistant,36000,3,1,15000,30000,1,good academic contributor
+4,Assistant,38000,4,2,20000,40000,1,excellent teacher and researcher
+5,Assistant,40000,5,2,25000,50000,1,excellent teacher and researcher
+6,Assistant,42000,6,3,30000,60000,2,excellent teacher and researcher
+7,Assistant,44000,7,3,35000,70000,2,poor involvement in research
+8,Associate,46000,8,4,40000,80000,2,poor involvement in research
+9,Associate,48000,9,4,45000,90000,3,average faculty performance
+10,Associate,50000,10,5,50000,100000,3,poor involvement in research
+11,Associate,52000,11,5,55000,110000,3,good academic contributor
+12,Associate,54000,12,6,60000,120000,4,poor involvement in research
+13,Associate,56000,13,6,65000,130000,4,excellent teacher and researcher
+14,Associate,58000,14,7,70000,140000,4,poor involvement in research
+15,Associate,60000,15,7,75000,150000,5,good academic contributor
+16,Professor,62000,16,8,80000,160000,5,excellent teacher and researcher
+17,Professor,64000,17,8,85000,170000,5,good academic contributor
+18,Professor,66000,18,9,90000,180000,6,excellent teacher and researcher
+19,Professor,68000,19,9,95000,190000,6,poor involvement in research
+20,Professor,70000,20,10,100000,200000,6,poor involvement in research
+21,Professor,72000,21,10,105000,210000,7,good academic contributor
+22,Professor,74000,22,11,110000,220000,7,good academic contributor
+23,Professor,76000,23,11,115000,230000,7,poor involvement in research
+24,Professor,78000,24,12,120000,240000,8,good academic contributor
+25,Professor,80000,25,12,125000,250000,8,good academic contributor
+26,Professor,82000,26,13,130000,260000,8,average faculty performance
+27,Professor,84000,27,13,135000,270000,9,average faculty performance
+28,Professor,86000,28,14,140000,280000,9,poor involvement in research
+29,Professor,88000,29,14,145000,290000,9,poor involvement in research
+30,Professor,90000,30,15,150000,300000,10,poor involvement in research
+31,Professor,92000,31,15,155000,310000,10,average faculty performance
+32,Professor,94000,32,16,160000,320000,10,excellent teacher and researcher
+33,Professor,96000,33,16,165000,330000,11,good academic contributor
+34,Professor,98000,34,17,170000,340000,11,average faculty performance
+35,Professor,100000,35,17,175000,350000,11,excellent teacher and researcher
+36,Professor,102000,36,18,180000,360000,12,poor involvement in research
+37,Professor,104000,37,18,185000,370000,12,excellent teacher and researcher
+38,Professor,106000,38,19,190000,380000,12,average faculty performance
+39,Professor,108000,39,19,195000,390000,13,average faculty performance
+40,Professor,110000,40,20,200000,400000,13,poor involvement in research
+41,Professor,112000,41,20,205000,410000,13,poor involvement in research
+42,Professor,114000,42,21,210000,420000,14,excellent teacher and researcher
+43,Professor,116000,43,21,215000,430000,14,good academic contributor
+44,Professor,118000,44,22,220000,440000,14,poor involvement in research
+45,Professor,120000,45,22,225000,450000,15,good academic contributor
+46,Professor,122000,46,23,230000,460000,15,excellent teacher and researcher
+47,Professor,124000,47,23,235000,470000,15,average faculty performance
+48,Professor,126000,48,24,240000,480000,16,poor involvement in research
+49,Professor,128000,49,24,245000,490000,16,average faculty performance
+50,Professor,130000,50,25,250000,500000,16,excellent teacher and researcher
+51,Professor,132000,51,25,255000,510000,17,average faculty performance
+52,Professor,134000,52,26,260000,520000,17,average faculty performance
+53,Professor,136000,53,26,265000,530000,17,average faculty performance
+54,Professor,138000,54,27,270000,540000,18,poor involvement in research
+55,Professor,140000,55,27,275000,550000,18,good academic contributor
+56,Professor,142000,56,28,280000,560000,18,excellent teacher and researcher
+57,Professor,144000,57,28,285000,570000,19,poor involvement in research
+58,Professor,146000,58,29,290000,580000,19,good academic contributor
+59,Professor,148000,59,29,295000,590000,19,poor involvement in research
+60,Professor,150000,60,30,300000,600000,20,good academic contributor
+61,Professor,152000,61,30,305000,610000,20,good academic contributor
+62,Professor,154000,62,31,310000,620000,20,poor involvement in research
+63,Professor,156000,63,31,315000,630000,21,excellent teacher and researcher
+64,Professor,158000,64,32,320000,640000,21,excellent teacher and researcher
+65,Professor,160000,65,32,325000,650000,21,average faculty performance
+66,Professor,162000,66,33,330000,660000,22,average faculty performance
+67,Professor,164000,67,33,335000,670000,22,excellent teacher and researcher
+68,Professor,166000,68,34,340000,680000,22,good academic contributor
+69,Professor,168000,69,34,345000,690000,23,good academic contributor
+70,Professor,170000,70,35,350000,700000,23,poor involvement in research
+71,Professor,172000,71,35,355000,710000,23,average faculty performance
+72,Professor,174000,72,36,360000,720000,24,average faculty performance
+73,Professor,176000,73,36,365000,730000,24,good academic contributor
+74,Professor,178000,74,37,370000,740000,24,average faculty performance
+75,Professor,180000,75,37,375000,750000,25,average faculty performance
+76,Professor,182000,76,38,380000,760000,25,excellent teacher and researcher
+77,Professor,184000,77,38,385000,770000,25,average faculty performance
+78,Professor,186000,78,39,390000,780000,26,excellent teacher and researcher
+79,Professor,188000,79,39,395000,790000,26,good academic contributor
+80,Professor,190000,80,40,400000,800000,26,average faculty performance
+81,Professor,192000,81,40,405000,810000,27,excellent teacher and researcher
+82,Professor,194000,82,41,410000,820000,27,average faculty performance
+83,Professor,196000,83,41,415000,830000,27,good academic contributor
+84,Professor,198000,84,42,420000,840000,28,poor involvement in research
+85,Professor,200000,85,42,425000,850000,28,excellent teacher and researcher
+86,Professor,202000,86,43,430000,860000,28,good academic contributor
+87,Professor,204000,87,43,435000,870000,29,poor involvement in research
+88,Professor,206000,88,44,440000,880000,29,average faculty performance
+89,Professor,208000,89,44,445000,890000,29,average faculty performance
+90,Professor,210000,90,45,450000,900000,30,average faculty performance
+91,Professor,212000,91,45,455000,910000,30,good academic contributor
+92,Professor,214000,92,46,460000,920000,30,average faculty performance
+93,Professor,216000,93,46,465000,930000,31,average faculty performance
+94,Professor,218000,94,47,470000,940000,31,excellent teacher and researcher
+95,Professor,220000,95,47,475000,950000,31,average faculty performance
+96,Professor,222000,96,48,480000,960000,32,good academic contributor
+97,Professor,224000,97,48,485000,970000,32,average faculty performance
+98,Professor,226000,98,49,490000,980000,32,average faculty performance
+99,Professor,228000,99,49,495000,990000,33,poor involvement in research
+100,Professor,230000,100,50,500000,1000000,33,average faculty performance
+101,Professor,232000,101,50,505000,1010000,33,excellent teacher and researcher
+102,Professor,234000,102,51,510000,1020000,34,average faculty performance
+103,Professor,236000,103,51,515000,1030000,34,poor involvement in research
+104,Professor,238000,104,52,520000,1040000,34,good academic contributor
+105,Professor,240000,105,52,525000,1050000,35,poor involvement in research
+106,Professor,242000,106,53,530000,1060000,35,poor involvement in research
+107,Professor,244000,107,53,535000,1070000,35,poor involvement in research
+108,Professor,246000,108,54,540000,1080000,36,good academic contributor
+109,Professor,248000,109,54,545000,1090000,36,good academic contributor
+110,Professor,250000,110,55,550000,1100000,36,excellent teacher and researcher
+111,Professor,252000,111,55,555000,1110000,37,poor involvement in research
+112,Professor,254000,112,56,560000,1120000,37,average faculty performance
+113,Professor,256000,113,56,565000,1130000,37,good academic contributor
+114,Professor,258000,114,57,570000,1140000,38,poor involvement in research
+115,Professor,260000,115,57,575000,1150000,38,excellent teacher and researcher
+116,Professor,262000,116,58,580000,1160000,38,good academic contributor
+117,Professor,264000,117,58,585000,1170000,39,excellent teacher and researcher
+118,Professor,266000,118,59,590000,1180000,39,good academic contributor
+119,Professor,268000,119,59,595000,1190000,39,excellent teacher and researcher
+120,Professor,270000,120,60,600000,1200000,40,excellent teacher and researcher
+121,Professor,272000,121,60,605000,1210000,40,good academic contributor
+122,Professor,274000,122,61,610000,1220000,40,good academic contributor
+123,Professor,276000,123,61,615000,1230000,41,average faculty performance
+124,Professor,278000,124,62,620000,1240000,41,average faculty performance
+125,Professor,280000,125,62,625000,1250000,41,good academic contributor
+126,Professor,282000,126,63,630000,1260000,42,poor involvement in research
+127,Professor,284000,127,63,635000,1270000,42,excellent teacher and researcher
+128,Professor,286000,128,64,640000,1280000,42,excellent teacher and researcher
+129,Professor,288000,129,64,645000,1290000,43,good academic contributor
+130,Professor,290000,130,65,650000,1300000,43,average faculty performance
+131,Professor,292000,131,65,655000,1310000,43,average faculty performance
+132,Professor,294000,132,66,660000,1320000,44,good academic contributor
+133,Professor,296000,133,66,665000,1330000,44,poor involvement in research
+134,Professor,298000,134,67,670000,1340000,44,good academic contributor
+135,Professor,300000,135,67,675000,1350000,45,excellent teacher and researcher
+136,Professor,302000,136,68,680000,1360000,45,poor involvement in research
+137,Professor,304000,137,68,685000,1370000,45,excellent teacher and researcher
+138,Professor,306000,138,69,690000,1380000,46,average faculty performance
+139,Professor,308000,139,69,695000,1390000,46,poor involvement in research
+140,Professor,310000,140,70,700000,1400000,46,average faculty performance
+141,Professor,312000,141,70,705000,1410000,47,average faculty performance
+142,Professor,314000,142,71,710000,1420000,47,excellent teacher and researcher
+143,Professor,316000,143,71,715000,1430000,47,average faculty performance
+144,Professor,318000,144,72,720000,1440000,48,poor involvement in research
+145,Professor,320000,145,72,725000,1450000,48,average faculty performance
+146,Professor,322000,146,73,730000,1460000,48,poor involvement in research
+147,Professor,324000,147,73,735000,1470000,49,average faculty performance
+148,Professor,326000,148,74,740000,1480000,49,good academic contributor
+149,Professor,328000,149,74,745000,1490000,49,good academic contributor
+150,Professor,330000,150,75,750000,1500000,50,poor involvement in research
+151,Professor,332000,151,75,755000,1510000,50,excellent teacher and researcher
+152,Professor,334000,152,76,760000,1520000,50,excellent teacher and researcher
+153,Professor,336000,153,76,765000,1530000,51,excellent teacher and researcher
+154,Professor,338000,154,77,770000,1540000,51,good academic contributor
+155,Professor,340000,155,77,775000,1550000,51,good academic contributor
+156,Professor,342000,156,78,780000,1560000,52,excellent teacher and researcher
+157,Professor,344000,157,78,785000,1570000,52,poor involvement in research
+158,Professor,346000,158,79,790000,1580000,52,average faculty performance
+159,Professor,348000,159,79,795000,1590000,53,poor involvement in research
+160,Professor,350000,160,80,800000,1600000,53,average faculty performance
+161,Professor,352000,161,80,805000,1610000,53,good academic contributor
+162,Professor,354000,162,81,810000,1620000,54,average faculty performance
+163,Professor,356000,163,81,815000,1630000,54,poor involvement in research
+164,Professor,358000,164,82,820000,1640000,54,good academic contributor
+165,Professor,360000,165,82,825000,1650000,55,good academic contributor
+166,Professor,362000,166,83,830000,1660000,55,poor involvement in research
+167,Professor,364000,167,83,835000,1670000,55,poor involvement in research
+168,Professor,366000,168,84,840000,1680000,56,excellent teacher and researcher
+169,Professor,368000,169,84,845000,1690000,56,excellent teacher and researcher
+170,Professor,370000,170,85,850000,1700000,56,average faculty performance
+171,Professor,372000,171,85,855000,1710000,57,excellent teacher and researcher
+172,Professor,374000,172,86,860000,1720000,57,excellent teacher and researcher
+173,Professor,376000,173,86,865000,1730000,57,good academic contributor
+174,Professor,378000,174,87,870000,1740000,58,poor involvement in research
+175,Professor,380000,175,87,875000,1750000,58,average faculty performance
+176,Professor,382000,176,88,880000,1760000,58,average faculty performance
+177,Professor,384000,177,88,885000,1770000,59,average faculty performance
+178,Professor,386000,178,89,890000,1780000,59,poor involvement in research
+179,Professor,388000,179,89,895000,1790000,59,poor involvement in research
+180,Professor,390000,180,90,900000,1800000,60,good academic contributor
+181,Professor,392000,181,90,905000,1810000,60,excellent teacher and researcher
+182,Professor,394000,182,91,910000,1820000,60,good academic contributor
+183,Professor,396000,183,91,915000,1830000,61,good academic contributor
+184,Professor,398000,184,92,920000,1840000,61,good academic contributor
+185,Professor,400000,185,92,925000,1850000,61,average faculty performance
+186,Professor,402000,186,93,930000,1860000,62,average faculty performance
+187,Professor,404000,187,93,935000,1870000,62,poor involvement in research
+188,Professor,406000,188,94,940000,1880000,62,average faculty performance
+189,Professor,408000,189,94,945000,1890000,63,poor involvement in research
+190,Professor,410000,190,95,950000,1900000,63,good academic contributor
+191,Professor,412000,191,95,955000,1910000,63,good academic contributor
+192,Professor,414000,192,96,960000,1920000,64,poor involvement in research
+193,Professor,416000,193,96,965000,1930000,64,poor involvement in research
+194,Professor,418000,194,97,970000,1940000,64,excellent teacher and researcher
+195,Professor,420000,195,97,975000,1950000,65,good academic contributor
+196,Professor,422000,196,98,980000,1960000,65,good academic contributor
+197,Professor,424000,197,98,985000,1970000,65,poor involvement in research
+198,Professor,426000,198,99,990000,1980000,66,good academic contributor
+199,Professor,428000,199,99,995000,1990000,66,good academic contributor
+200,Professor,430000,200,100,1000000,2000000,66,average faculty performance
+201,Professor,432000,201,100,1005000,2010000,67,poor involvement in research
+202,Professor,434000,202,101,1010000,2020000,67,excellent teacher and researcher
+203,Professor,436000,203,101,1015000,2030000,67,excellent teacher and researcher
+204,Professor,438000,204,102,1020000,2040000,68,excellent teacher and researcher
+205,Professor,440000,205,102,1025000,2050000,68,good academic contributor
+206,Professor,442000,206,103,1030000,2060000,68,poor involvement in research
+207,Professor,444000,207,103,1035000,2070000,69,good academic contributor
+208,Professor,446000,208,104,1040000,2080000,69,average faculty performance
+209,Professor,448000,209,104,1045000,2090000,69,excellent teacher and researcher
+210,Professor,450000,210,105,1050000,2100000,70,poor involvement in research
+211,Professor,452000,211,105,1055000,2110000,70,good academic contributor
+212,Professor,454000,212,106,1060000,2120000,70,poor involvement in research
+213,Professor,456000,213,106,1065000,2130000,71,excellent teacher and researcher
+214,Professor,458000,214,107,1070000,2140000,71,good academic contributor
+215,Professor,460000,215,107,1075000,2150000,71,average faculty performance
+216,Professor,462000,216,108,1080000,2160000,72,average faculty performance
+217,Professor,464000,217,108,1085000,2170000,72,average faculty performance
+218,Professor,466000,218,109,1090000,2180000,72,excellent teacher and researcher
+219,Professor,468000,219,109,1095000,2190000,73,excellent teacher and researcher
+220,Professor,470000,220,110,1100000,2200000,73,good academic contributor
+221,Professor,472000,221,110,1105000,2210000,73,poor involvement in research
+222,Professor,474000,222,111,1110000,2220000,74,poor involvement in research
+223,Professor,476000,223,111,1115000,2230000,74,average faculty performance
+224,Professor,478000,224,112,1120000,2240000,74,poor involvement in research
+225,Professor,480000,225,112,1125000,2250000,75,good academic contributor
+226,Professor,482000,226,113,1130000,2260000,75,excellent teacher and researcher
+227,Professor,484000,227,113,1135000,2270000,75,excellent teacher and researcher
+228,Professor,486000,228,114,1140000,2280000,76,excellent teacher and researcher
+229,Professor,488000,229,114,1145000,2290000,76,poor involvement in research
+230,Professor,490000,230,115,1150000,2300000,76,excellent teacher and researcher
+231,Professor,492000,231,115,1155000,2310000,77,good academic contributor
+232,Professor,494000,232,116,1160000,2320000,77,excellent teacher and researcher
+233,Professor,496000,233,116,1165000,2330000,77,average faculty performance
+234,Professor,498000,234,117,1170000,2340000,78,excellent teacher and researcher
+235,Professor,500000,235,117,1175000,2350000,78,poor involvement in research
+236,Professor,502000,236,118,1180000,2360000,78,excellent teacher and researcher
+237,Professor,504000,237,118,1185000,2370000,79,good academic contributor
+238,Professor,506000,238,119,1190000,2380000,79,average faculty performance
+239,Professor,508000,239,119,1195000,2390000,79,average faculty performance
+240,Professor,510000,240,120,1200000,2400000,80,average faculty performance
+241,Professor,512000,241,120,1205000,2410000,80,excellent teacher and researcher
+242,Professor,514000,242,121,1210000,2420000,80,poor involvement in research
+243,Professor,516000,243,121,1215000,2430000,81,poor involvement in research
+244,Professor,518000,244,122,1220000,2440000,81,poor involvement in research
+245,Professor,520000,245,122,1225000,2450000,81,excellent teacher and researcher
+246,Professor,522000,246,123,1230000,2460000,82,average faculty performance
+247,Professor,524000,247,123,1235000,2470000,82,excellent teacher and researcher
+248,Professor,526000,248,124,1240000,2480000,82,poor involvement in research
+249,Professor,528000,249,124,1245000,2490000,83,average faculty performance
+250,Professor,530000,250,125,1250000,2500000,83,excellent teacher and researcher
+251,Professor,532000,251,125,1255000,2510000,83,good academic contributor
+252,Professor,534000,252,126,1260000,2520000,84,average faculty performance
+253,Professor,536000,253,126,1265000,2530000,84,poor involvement in research
+254,Professor,538000,254,127,1270000,2540000,84,excellent teacher and researcher
+255,Professor,540000,255,127,1275000,2550000,85,good academic contributor
+256,Professor,542000,256,128,1280000,2560000,85,poor involvement in research
+257,Professor,544000,257,128,1285000,2570000,85,excellent teacher and researcher
+258,Professor,546000,258,129,1290000,2580000,86,poor involvement in research
+259,Professor,548000,259,129,1295000,2590000,86,excellent teacher and researcher
+260,Professor,550000,260,130,1300000,2600000,86,good academic contributor
+261,Professor,552000,261,130,1305000,2610000,87,good academic contributor
+262,Professor,554000,262,131,1310000,2620000,87,poor involvement in research
+263,Professor,556000,263,131,1315000,2630000,87,good academic contributor
+264,Professor,558000,264,132,1320000,2640000,88,average faculty performance
+265,Professor,560000,265,132,1325000,2650000,88,average faculty performance
+266,Professor,562000,266,133,1330000,2660000,88,average faculty performance
+267,Professor,564000,267,133,1335000,2670000,89,poor involvement in research
+268,Professor,566000,268,134,1340000,2680000,89,average faculty performance
+269,Professor,568000,269,134,1345000,2690000,89,average faculty performance
+270,Professor,570000,270,135,1350000,2700000,90,poor involvement in research
+271,Professor,572000,271,135,1355000,2710000,90,good academic contributor
+272,Professor,574000,272,136,1360000,2720000,90,good academic contributor
+273,Professor,576000,273,136,1365000,2730000,91,excellent teacher and researcher
+274,Professor,578000,274,137,1370000,2740000,91,average faculty performance
+275,Professor,580000,275,137,1375000,2750000,91,poor involvement in research
+276,Professor,582000,276,138,1380000,2760000,92,good academic contributor
+277,Professor,584000,277,138,1385000,2770000,92,good academic contributor
+278,Professor,586000,278,139,1390000,2780000,92,average faculty performance
+279,Professor,588000,279,139,1395000,2790000,93,poor involvement in research
+280,Professor,590000,280,140,1400000,2800000,93,poor involvement in research
+281,Professor,592000,281,140,1405000,2810000,93,average faculty performance
+282,Professor,594000,282,141,1410000,2820000,94,average faculty performance
+283,Professor,596000,283,141,1415000,2830000,94,average faculty performance
+284,Professor,598000,284,142,1420000,2840000,94,good academic contributor
+285,Professor,600000,285,142,1425000,2850000,95,average faculty performance
+286,Professor,602000,286,143,1430000,2860000,95,excellent teacher and researcher
+287,Professor,604000,287,143,1435000,2870000,95,good academic contributor
+288,Professor,606000,288,144,1440000,2880000,96,good academic contributor
+289,Professor,608000,289,144,1445000,2890000,96,average faculty performance
+290,Professor,610000,290,145,1450000,2900000,96,poor involvement in research
+291,Professor,612000,291,145,1455000,2910000,97,good academic contributor
+292,Professor,614000,292,146,1460000,2920000,97,poor involvement in research
+293,Professor,616000,293,146,1465000,2930000,97,poor involvement in research
+294,Professor,618000,294,147,1470000,2940000,98,poor involvement in research
+295,Professor,620000,295,147,1475000,2950000,98,excellent teacher and researcher
+296,Professor,622000,296,148,1480000,2960000,98,poor involvement in research
+297,Professor,624000,297,148,1485000,2970000,99,poor involvement in research
+298,Professor,626000,298,149,1490000,2980000,99,excellent teacher and researcher
+299,Professor,628000,299,149,1495000,2990000,99,average faculty performance
+300,Professor,630000,300,150,1500000,3000000,100,good academic contributor
+301,Professor,632000,301,150,1505000,3010000,100,poor involvement in research
+302,Professor,634000,302,151,1510000,3020000,100,average faculty performance
+303,Professor,636000,303,151,1515000,3030000,101,good academic contributor
+304,Professor,638000,304,152,1520000,3040000,101,poor involvement in research
+305,Professor,640000,305,152,1525000,3050000,101,poor involvement in research
+306,Professor,642000,306,153,1530000,3060000,102,average faculty performance
+307,Professor,644000,307,153,1535000,3070000,102,poor involvement in research
+308,Professor,646000,308,154,1540000,3080000,102,excellent teacher and researcher
+309,Professor,648000,309,154,1545000,3090000,103,average faculty performance
+310,Professor,650000,310,155,1550000,3100000,103,good academic contributor
+311,Professor,652000,311,155,1555000,3110000,103,average faculty performance
+312,Professor,654000,312,156,1560000,3120000,104,excellent teacher and researcher
+313,Professor,656000,313,156,1565000,3130000,104,good academic contributor
+314,Professor,658000,314,157,1570000,3140000,104,poor involvement in research
+315,Professor,660000,315,157,1575000,3150000,105,average faculty performance
+316,Professor,662000,316,158,1580000,3160000,105,excellent teacher and researcher
+317,Professor,664000,317,158,1585000,3170000,105,good academic contributor
+318,Professor,666000,318,159,1590000,3180000,106,good academic contributor
+319,Professor,668000,319,159,1595000,3190000,106,average faculty performance
+320,Professor,670000,320,160,1600000,3200000,106,poor involvement in research
+321,Professor,672000,321,160,1605000,3210000,107,poor involvement in research
+322,Professor,674000,322,161,1610000,3220000,107,good academic contributor
+323,Professor,676000,323,161,1615000,3230000,107,average faculty performance
+324,Professor,678000,324,162,1620000,3240000,108,average faculty performance
+325,Professor,680000,325,162,1625000,3250000,108,good academic contributor
+326,Professor,682000,326,163,1630000,3260000,108,excellent teacher and researcher
+327,Professor,684000,327,163,1635000,3270000,109,poor involvement in research
+328,Professor,686000,328,164,1640000,3280000,109,good academic contributor
+329,Professor,688000,329,164,1645000,3290000,109,excellent teacher and researcher
+330,Professor,690000,330,165,1650000,3300000,110,average faculty performance
+331,Professor,692000,331,165,1655000,3310000,110,average faculty performance
+332,Professor,694000,332,166,1660000,3320000,110,good academic contributor
+333,Professor,696000,333,166,1665000,3330000,111,average faculty performance
+334,Professor,698000,334,167,1670000,3340000,111,poor involvement in research
+335,Professor,700000,335,167,1675000,3350000,111,good academic contributor
+336,Professor,702000,336,168,1680000,3360000,112,excellent teacher and researcher
+337,Professor,704000,337,168,1685000,3370000,112,excellent teacher and researcher
+338,Professor,706000,338,169,1690000,3380000,112,excellent teacher and researcher
+339,Professor,708000,339,169,1695000,3390000,113,good academic contributor
+340,Professor,710000,340,170,1700000,3400000,113,average faculty performance
+341,Professor,712000,341,170,1705000,3410000,113,excellent teacher and researcher
+342,Professor,714000,342,171,1710000,3420000,114,good academic contributor
+343,Professor,716000,343,171,1715000,3430000,114,excellent teacher and researcher
+344,Professor,718000,344,172,1720000,3440000,114,excellent teacher and researcher
+345,Professor,720000,345,172,1725000,3450000,115,excellent teacher and researcher
+346,Professor,722000,346,173,1730000,3460000,115,good academic contributor
+347,Professor,724000,347,173,1735000,3470000,115,average faculty performance
+348,Professor,726000,348,174,1740000,3480000,116,poor involvement in research
+349,Professor,728000,349,174,1745000,3490000,116,poor involvement in research
+350,Professor,730000,350,175,1750000,3500000,116,average faculty performance
+351,Professor,732000,351,175,1755000,3510000,117,excellent teacher and researcher
+352,Professor,734000,352,176,1760000,3520000,117,excellent teacher and researcher
+353,Professor,736000,353,176,1765000,3530000,117,poor involvement in research
+354,Professor,738000,354,177,1770000,3540000,118,good academic contributor
+355,Professor,740000,355,177,1775000,3550000,118,excellent teacher and researcher
+356,Professor,742000,356,178,1780000,3560000,118,average faculty performance
+357,Professor,744000,357,178,1785000,3570000,119,poor involvement in research
+358,Professor,746000,358,179,1790000,3580000,119,poor involvement in research
+359,Professor,748000,359,179,1795000,3590000,119,good academic contributor
+360,Professor,750000,360,180,1800000,3600000,120,average faculty performance
+361,Professor,752000,361,180,1805000,3610000,120,excellent teacher and researcher
+362,Professor,754000,362,181,1810000,3620000,120,good academic contributor
+363,Professor,756000,363,181,1815000,3630000,121,poor involvement in research
+364,Professor,758000,364,182,1820000,3640000,121,excellent teacher and researcher
+365,Professor,760000,365,182,1825000,3650000,121,good academic contributor
+366,Professor,762000,366,183,1830000,3660000,122,average faculty performance
+367,Professor,764000,367,183,1835000,3670000,122,poor involvement in research
+368,Professor,766000,368,184,1840000,3680000,122,average faculty performance
+369,Professor,768000,369,184,1845000,3690000,123,average faculty performance
+370,Professor,770000,370,185,1850000,3700000,123,average faculty performance
+371,Professor,772000,371,185,1855000,3710000,123,excellent teacher and researcher
+372,Professor,774000,372,186,1860000,3720000,124,excellent teacher and researcher
+373,Professor,776000,373,186,1865000,3730000,124,excellent teacher and researcher
+374,Professor,778000,374,187,1870000,3740000,124,excellent teacher and researcher
+375,Professor,780000,375,187,1875000,3750000,125,excellent teacher and researcher
+376,Professor,782000,376,188,1880000,3760000,125,poor involvement in research
+377,Professor,784000,377,188,1885000,3770000,125,good academic contributor
+378,Professor,786000,378,189,1890000,3780000,126,good academic contributor
+379,Professor,788000,379,189,1895000,3790000,126,excellent teacher and researcher
+380,Professor,790000,380,190,1900000,3800000,126,poor involvement in research
+381,Professor,792000,381,190,1905000,3810000,127,poor involvement in research
+382,Professor,794000,382,191,1910000,3820000,127,good academic contributor
+383,Professor,796000,383,191,1915000,3830000,127,good academic contributor
+384,Professor,798000,384,192,1920000,3840000,128,poor involvement in research
+385,Professor,800000,385,192,1925000,3850000,128,poor involvement in research
+386,Professor,802000,386,193,1930000,3860000,128,average faculty performance
+387,Professor,804000,387,193,1935000,3870000,129,good academic contributor
+388,Professor,806000,388,194,1940000,3880000,129,good academic contributor
+389,Professor,808000,389,194,1945000,3890000,129,good academic contributor
+390,Professor,810000,390,195,1950000,3900000,130,average faculty performance
+391,Professor,812000,391,195,1955000,3910000,130,excellent teacher and researcher
+392,Professor,814000,392,196,1960000,3920000,130,excellent teacher and researcher
+393,Professor,816000,393,196,1965000,3930000,131,average faculty performance
+394,Professor,818000,394,197,1970000,3940000,131,poor involvement in research
+395,Professor,820000,395,197,1975000,3950000,131,good academic contributor
+396,Professor,822000,396,198,1980000,3960000,132,average faculty performance
+397,Professor,824000,397,198,1985000,3970000,132,average faculty performance
+398,Professor,826000,398,199,1990000,3980000,132,excellent teacher and researcher
+399,Professor,828000,399,199,1995000,3990000,133,good academic contributor
+400,Professor,830000,400,200,2000000,4000000,133,average faculty performance
+401,Professor,832000,401,200,2005000,4010000,133,excellent teacher and researcher
+402,Professor,834000,402,201,2010000,4020000,134,average faculty performance
+403,Professor,836000,403,201,2015000,4030000,134,poor involvement in research
+404,Professor,838000,404,202,2020000,4040000,134,poor involvement in research
+405,Professor,840000,405,202,2025000,4050000,135,poor involvement in research
+406,Professor,842000,406,203,2030000,4060000,135,poor involvement in research
+407,Professor,844000,407,203,2035000,4070000,135,good academic contributor
+408,Professor,846000,408,204,2040000,4080000,136,excellent teacher and researcher
+409,Professor,848000,409,204,2045000,4090000,136,excellent teacher and researcher
+410,Professor,850000,410,205,2050000,4100000,136,excellent teacher and researcher
+411,Professor,852000,411,205,2055000,4110000,137,poor involvement in research
+412,Professor,854000,412,206,2060000,4120000,137,excellent teacher and researcher
+413,Professor,856000,413,206,2065000,4130000,137,good academic contributor
+414,Professor,858000,414,207,2070000,4140000,138,good academic contributor
+415,Professor,860000,415,207,2075000,4150000,138,good academic contributor
+416,Professor,862000,416,208,2080000,4160000,138,average faculty performance
+417,Professor,864000,417,208,2085000,4170000,139,excellent teacher and researcher
+418,Professor,866000,418,209,2090000,4180000,139,poor involvement in research
+419,Professor,868000,419,209,2095000,4190000,139,good academic contributor
+420,Professor,870000,420,210,2100000,4200000,140,poor involvement in research
+421,Professor,872000,421,210,2105000,4210000,140,average faculty performance
+422,Professor,874000,422,211,2110000,4220000,140,poor involvement in research
+423,Professor,876000,423,211,2115000,4230000,141,poor involvement in research
+424,Professor,878000,424,212,2120000,4240000,141,poor involvement in research
+425,Professor,880000,425,212,2125000,4250000,141,average faculty performance
+426,Professor,882000,426,213,2130000,4260000,142,average faculty performance
+427,Professor,884000,427,213,2135000,4270000,142,excellent teacher and researcher
+428,Professor,886000,428,214,2140000,4280000,142,poor involvement in research
+429,Professor,888000,429,214,2145000,4290000,143,average faculty performance
+430,Professor,890000,430,215,2150000,4300000,143,good academic contributor
+431,Professor,892000,431,215,2155000,4310000,143,poor involvement in research
+432,Professor,894000,432,216,2160000,4320000,144,excellent teacher and researcher
+433,Professor,896000,433,216,2165000,4330000,144,good academic contributor
+434,Professor,898000,434,217,2170000,4340000,144,excellent teacher and researcher
+435,Professor,900000,435,217,2175000,4350000,145,average faculty performance
+436,Professor,902000,436,218,2180000,4360000,145,good academic contributor
+437,Professor,904000,437,218,2185000,4370000,145,poor involvement in research
+438,Professor,906000,438,219,2190000,4380000,146,excellent teacher and researcher
+439,Professor,908000,439,219,2195000,4390000,146,poor involvement in research
+440,Professor,910000,440,220,2200000,4400000,146,poor involvement in research
+441,Professor,912000,441,220,2205000,4410000,147,excellent teacher and researcher
+442,Professor,914000,442,221,2210000,4420000,147,average faculty performance
+443,Professor,916000,443,221,2215000,4430000,147,average faculty performance
+444,Professor,918000,444,222,2220000,4440000,148,good academic contributor
+445,Professor,920000,445,222,2225000,4450000,148,excellent teacher and researcher
+446,Professor,922000,446,223,2230000,4460000,148,average faculty performance
+447,Professor,924000,447,223,2235000,4470000,149,good academic contributor
+448,Professor,926000,448,224,2240000,4480000,149,average faculty performance
+449,Professor,928000,449,224,2245000,4490000,149,poor involvement in research
+450,Professor,930000,450,225,2250000,4500000,150,good academic contributor
+451,Professor,932000,451,225,2255000,4510000,150,poor involvement in research
+452,Professor,934000,452,226,2260000,4520000,150,average faculty performance
+453,Professor,936000,453,226,2265000,4530000,151,average faculty performance
+454,Professor,938000,454,227,2270000,4540000,151,good academic contributor
+455,Professor,940000,455,227,2275000,4550000,151,average faculty performance
+456,Professor,942000,456,228,2280000,4560000,152,good academic contributor
+457,Professor,944000,457,228,2285000,4570000,152,excellent teacher and researcher
+458,Professor,946000,458,229,2290000,4580000,152,excellent teacher and researcher
+459,Professor,948000,459,229,2295000,4590000,153,poor involvement in research
+460,Professor,950000,460,230,2300000,4600000,153,poor involvement in research
+461,Professor,952000,461,230,2305000,4610000,153,average faculty performance
+462,Professor,954000,462,231,2310000,4620000,154,good academic contributor
+463,Professor,956000,463,231,2315000,4630000,154,good academic contributor
+464,Professor,958000,464,232,2320000,4640000,154,average faculty performance
+465,Professor,960000,465,232,2325000,4650000,155,good academic contributor
+466,Professor,962000,466,233,2330000,4660000,155,average faculty performance
+467,Professor,964000,467,233,2335000,4670000,155,average faculty performance
+468,Professor,966000,468,234,2340000,4680000,156,good academic contributor
+469,Professor,968000,469,234,2345000,4690000,156,good academic contributor
+470,Professor,970000,470,235,2350000,4700000,156,poor involvement in research
+471,Professor,972000,471,235,2355000,4710000,157,excellent teacher and researcher
+472,Professor,974000,472,236,2360000,4720000,157,average faculty performance
+473,Professor,976000,473,236,2365000,4730000,157,good academic contributor
+474,Professor,978000,474,237,2370000,4740000,158,good academic contributor
+475,Professor,980000,475,237,2375000,4750000,158,poor involvement in research
+476,Professor,982000,476,238,2380000,4760000,158,average faculty performance
+477,Professor,984000,477,238,2385000,4770000,159,average faculty performance
+478,Professor,986000,478,239,2390000,4780000,159,poor involvement in research
+479,Professor,988000,479,239,2395000,4790000,159,poor involvement in research
+480,Professor,990000,480,240,2400000,4800000,160,good academic contributor
+481,Professor,992000,481,240,2405000,4810000,160,poor involvement in research
+482,Professor,994000,482,241,2410000,4820000,160,average faculty performance
+483,Professor,996000,483,241,2415000,4830000,161,average faculty performance
+484,Professor,998000,484,242,2420000,4840000,161,good academic contributor
+485,Professor,1000000,485,242,2425000,4850000,161,good academic contributor
+486,Professor,1002000,486,243,2430000,4860000,162,excellent teacher and researcher
+487,Professor,1004000,487,243,2435000,4870000,162,poor involvement in research
+488,Professor,1006000,488,244,2440000,4880000,162,average faculty performance
+489,Professor,1008000,489,244,2445000,4890000,163,poor involvement in research
+490,Professor,1010000,490,245,2450000,4900000,163,average faculty performance
+491,Professor,1012000,491,245,2455000,4910000,163,excellent teacher and researcher
+492,Professor,1014000,492,246,2460000,4920000,164,good academic contributor
+493,Professor,1016000,493,246,2465000,4930000,164,poor involvement in research
+494,Professor,1018000,494,247,2470000,4940000,164,good academic contributor
+495,Professor,1020000,495,247,2475000,4950000,165,poor involvement in research
+496,Professor,1022000,496,248,2480000,4960000,165,poor involvement in research
+497,Professor,1024000,497,248,2485000,4970000,165,excellent teacher and researcher
+498,Professor,1026000,498,249,2490000,4980000,166,excellent teacher and researcher
+499,Professor,1028000,499,249,2495000,4990000,166,excellent teacher and researcher
+500,Professor,1030000,500,250,2500000,5000000,166,poor involvement in research
+501,Professor,1032000,501,250,2505000,5010000,167,excellent teacher and researcher
+502,Professor,1034000,502,251,2510000,5020000,167,poor involvement in research
+503,Professor,1036000,503,251,2515000,5030000,167,excellent teacher and researcher
+504,Professor,1038000,504,252,2520000,5040000,168,good academic contributor
+505,Professor,1040000,505,252,2525000,5050000,168,good academic contributor
+506,Professor,1042000,506,253,2530000,5060000,168,excellent teacher and researcher
+507,Professor,1044000,507,253,2535000,5070000,169,poor involvement in research
+508,Professor,1046000,508,254,2540000,5080000,169,poor involvement in research
+509,Professor,1048000,509,254,2545000,5090000,169,poor involvement in research
+510,Professor,1050000,510,255,2550000,5100000,170,excellent teacher and researcher
+511,Professor,1052000,511,255,2555000,5110000,170,excellent teacher and researcher
+512,Professor,1054000,512,256,2560000,5120000,170,good academic contributor
+513,Professor,1056000,513,256,2565000,5130000,171,good academic contributor
+514,Professor,1058000,514,257,2570000,5140000,171,poor involvement in research
+515,Professor,1060000,515,257,2575000,5150000,171,excellent teacher and researcher
+516,Professor,1062000,516,258,2580000,5160000,172,excellent teacher and researcher
+517,Professor,1064000,517,258,2585000,5170000,172,good academic contributor
+518,Professor,1066000,518,259,2590000,5180000,172,good academic contributor
+519,Professor,1068000,519,259,2595000,5190000,173,poor involvement in research
+520,Professor,1070000,520,260,2600000,5200000,173,average faculty performance
+521,Professor,1072000,521,260,2605000,5210000,173,good academic contributor
+522,Professor,1074000,522,261,2610000,5220000,174,excellent teacher and researcher
+523,Professor,1076000,523,261,2615000,5230000,174,poor involvement in research
+524,Professor,1078000,524,262,2620000,5240000,174,excellent teacher and researcher
+525,Professor,1080000,525,262,2625000,5250000,175,average faculty performance
+526,Professor,1082000,526,263,2630000,5260000,175,good academic contributor
+527,Professor,1084000,527,263,2635000,5270000,175,poor involvement in research
+528,Professor,1086000,528,264,2640000,5280000,176,good academic contributor
+529,Professor,1088000,529,264,2645000,5290000,176,average faculty performance
+530,Professor,1090000,530,265,2650000,5300000,176,average faculty performance
+531,Professor,1092000,531,265,2655000,5310000,177,average faculty performance
+532,Professor,1094000,532,266,2660000,5320000,177,excellent teacher and researcher
+533,Professor,1096000,533,266,2665000,5330000,177,excellent teacher and researcher
+534,Professor,1098000,534,267,2670000,5340000,178,poor involvement in research
+535,Professor,1100000,535,267,2675000,5350000,178,good academic contributor
+536,Professor,1102000,536,268,2680000,5360000,178,excellent teacher and researcher
+537,Professor,1104000,537,268,2685000,5370000,179,good academic contributor
+538,Professor,1106000,538,269,2690000,5380000,179,average faculty performance
+539,Professor,1108000,539,269,2695000,5390000,179,poor involvement in research
+540,Professor,1110000,540,270,2700000,5400000,180,average faculty performance
+541,Professor,1112000,541,270,2705000,5410000,180,excellent teacher and researcher
+542,Professor,1114000,542,271,2710000,5420000,180,average faculty performance
+543,Professor,1116000,543,271,2715000,5430000,181,excellent teacher and researcher
+544,Professor,1118000,544,272,2720000,5440000,181,excellent teacher and researcher
+545,Professor,1120000,545,272,2725000,5450000,181,poor involvement in research
+546,Professor,1122000,546,273,2730000,5460000,182,good academic contributor
+547,Professor,1124000,547,273,2735000,5470000,182,good academic contributor
+548,Professor,1126000,548,274,2740000,5480000,182,good academic contributor
+549,Professor,1128000,549,274,2745000,5490000,183,good academic contributor
+550,Professor,1130000,550,275,2750000,5500000,183,poor involvement in research
+551,Professor,1132000,551,275,2755000,5510000,183,average faculty performance
+552,Professor,1134000,552,276,2760000,5520000,184,good academic contributor
+553,Professor,1136000,553,276,2765000,5530000,184,good academic contributor
+554,Professor,1138000,554,277,2770000,5540000,184,poor involvement in research
+555,Professor,1140000,555,277,2775000,5550000,185,poor involvement in research
+556,Professor,1142000,556,278,2780000,5560000,185,average faculty performance
+557,Professor,1144000,557,278,2785000,5570000,185,average faculty performance
+558,Professor,1146000,558,279,2790000,5580000,186,excellent teacher and researcher
+559,Professor,1148000,559,279,2795000,5590000,186,average faculty performance
+560,Professor,1150000,560,280,2800000,5600000,186,excellent teacher and researcher
+561,Professor,1152000,561,280,2805000,5610000,187,average faculty performance
+562,Professor,1154000,562,281,2810000,5620000,187,good academic contributor
+563,Professor,1156000,563,281,2815000,5630000,187,poor involvement in research
+564,Professor,1158000,564,282,2820000,5640000,188,average faculty performance
+565,Professor,1160000,565,282,2825000,5650000,188,average faculty performance
+566,Professor,1162000,566,283,2830000,5660000,188,good academic contributor
+567,Professor,1164000,567,283,2835000,5670000,189,good academic contributor
+568,Professor,1166000,568,284,2840000,5680000,189,average faculty performance
+569,Professor,1168000,569,284,2845000,5690000,189,excellent teacher and researcher
+570,Professor,1170000,570,285,2850000,5700000,190,good academic contributor
+571,Professor,1172000,571,285,2855000,5710000,190,excellent teacher and researcher
+572,Professor,1174000,572,286,2860000,5720000,190,excellent teacher and researcher
+573,Professor,1176000,573,286,2865000,5730000,191,average faculty performance
+574,Professor,1178000,574,287,2870000,5740000,191,poor involvement in research
+575,Professor,1180000,575,287,2875000,5750000,191,poor involvement in research
+576,Professor,1182000,576,288,2880000,5760000,192,average faculty performance
+577,Professor,1184000,577,288,2885000,5770000,192,average faculty performance
+578,Professor,1186000,578,289,2890000,5780000,192,poor involvement in research
+579,Professor,1188000,579,289,2895000,5790000,193,average faculty performance
+580,Professor,1190000,580,290,2900000,5800000,193,poor involvement in research
+581,Professor,1192000,581,290,2905000,5810000,193,average faculty performance
+582,Professor,1194000,582,291,2910000,5820000,194,poor involvement in research
+583,Professor,1196000,583,291,2915000,5830000,194,average faculty performance
+584,Professor,1198000,584,292,2920000,5840000,194,good academic contributor
+585,Professor,1200000,585,292,2925000,5850000,195,poor involvement in research
+586,Professor,1202000,586,293,2930000,5860000,195,average faculty performance
+587,Professor,1204000,587,293,2935000,5870000,195,excellent teacher and researcher
+588,Professor,1206000,588,294,2940000,5880000,196,poor involvement in research
+589,Professor,1208000,589,294,2945000,5890000,196,average faculty performance
+590,Professor,1210000,590,295,2950000,5900000,196,poor involvement in research
+591,Professor,1212000,591,295,2955000,5910000,197,average faculty performance
+592,Professor,1214000,592,296,2960000,5920000,197,average faculty performance
+593,Professor,1216000,593,296,2965000,5930000,197,good academic contributor
+594,Professor,1218000,594,297,2970000,5940000,198,average faculty performance
+595,Professor,1220000,595,297,2975000,5950000,198,poor involvement in research
+596,Professor,1222000,596,298,2980000,5960000,198,average faculty performance
+597,Professor,1224000,597,298,2985000,5970000,199,excellent teacher and researcher
+598,Professor,1226000,598,299,2990000,5980000,199,average faculty performance
+599,Professor,1228000,599,299,2995000,5990000,199,average faculty performance
+600,Professor,1230000,600,300,3000000,6000000,200,good academic contributor
+601,Professor,1232000,601,300,3005000,6010000,200,poor involvement in research
+602,Professor,1234000,602,301,3010000,6020000,200,excellent teacher and researcher
+603,Professor,1236000,603,301,3015000,6030000,201,average faculty performance
+604,Professor,1238000,604,302,3020000,6040000,201,excellent teacher and researcher
+605,Professor,1240000,605,302,3025000,6050000,201,average faculty performance
+606,Professor,1242000,606,303,3030000,6060000,202,good academic contributor
+607,Professor,1244000,607,303,3035000,6070000,202,good academic contributor
+608,Professor,1246000,608,304,3040000,6080000,202,average faculty performance
+609,Professor,1248000,609,304,3045000,6090000,203,average faculty performance
+610,Professor,1250000,610,305,3050000,6100000,203,excellent teacher and researcher
+611,Professor,1252000,611,305,3055000,6110000,203,poor involvement in research
+612,Professor,1254000,612,306,3060000,6120000,204,excellent teacher and researcher
+613,Professor,1256000,613,306,3065000,6130000,204,poor involvement in research
+614,Professor,1258000,614,307,3070000,6140000,204,average faculty performance
+615,Professor,1260000,615,307,3075000,6150000,205,poor involvement in research
+616,Professor,1262000,616,308,3080000,6160000,205,poor involvement in research
+617,Professor,1264000,617,308,3085000,6170000,205,excellent teacher and researcher
+618,Professor,1266000,618,309,3090000,6180000,206,poor involvement in research
+619,Professor,1268000,619,309,3095000,6190000,206,poor involvement in research
+620,Professor,1270000,620,310,3100000,6200000,206,average faculty performance
+621,Professor,1272000,621,310,3105000,6210000,207,poor involvement in research
+622,Professor,1274000,622,311,3110000,6220000,207,good academic contributor
+623,Professor,1276000,623,311,3115000,6230000,207,average faculty performance
+624,Professor,1278000,624,312,3120000,6240000,208,poor involvement in research
+625,Professor,1280000,625,312,3125000,6250000,208,excellent teacher and researcher
+626,Professor,1282000,626,313,3130000,6260000,208,good academic contributor
+627,Professor,1284000,627,313,3135000,6270000,209,average faculty performance
+628,Professor,1286000,628,314,3140000,6280000,209,excellent teacher and researcher
+629,Professor,1288000,629,314,3145000,6290000,209,poor involvement in research
+630,Professor,1290000,630,315,3150000,6300000,210,average faculty performance
+631,Professor,1292000,631,315,3155000,6310000,210,average faculty performance
+632,Professor,1294000,632,316,3160000,6320000,210,excellent teacher and researcher
+633,Professor,1296000,633,316,3165000,6330000,211,good academic contributor
+634,Professor,1298000,634,317,3170000,6340000,211,average faculty performance
+635,Professor,1300000,635,317,3175000,6350000,211,excellent teacher and researcher
+636,Professor,1302000,636,318,3180000,6360000,212,poor involvement in research
+637,Professor,1304000,637,318,3185000,6370000,212,average faculty performance
+638,Professor,1306000,638,319,3190000,6380000,212,good academic contributor
+639,Professor,1308000,639,319,3195000,6390000,213,good academic contributor
+640,Professor,1310000,640,320,3200000,6400000,213,poor involvement in research
+641,Professor,1312000,641,320,3205000,6410000,213,average faculty performance
+642,Professor,1314000,642,321,3210000,6420000,214,poor involvement in research
+643,Professor,1316000,643,321,3215000,6430000,214,excellent teacher and researcher
+644,Professor,1318000,644,322,3220000,6440000,214,poor involvement in research
+645,Professor,1320000,645,322,3225000,6450000,215,average faculty performance
+646,Professor,1322000,646,323,3230000,6460000,215,poor involvement in research
+647,Professor,1324000,647,323,3235000,6470000,215,good academic contributor
+648,Professor,1326000,648,324,3240000,6480000,216,excellent teacher and researcher
+649,Professor,1328000,649,324,3245000,6490000,216,good academic contributor
+650,Professor,1330000,650,325,3250000,6500000,216,poor involvement in research
+651,Professor,1332000,651,325,3255000,6510000,217,excellent teacher and researcher
+652,Professor,1334000,652,326,3260000,6520000,217,poor involvement in research
+653,Professor,1336000,653,326,3265000,6530000,217,good academic contributor
+654,Professor,1338000,654,327,3270000,6540000,218,poor involvement in research
+655,Professor,1340000,655,327,3275000,6550000,218,poor involvement in research
+656,Professor,1342000,656,328,3280000,6560000,218,good academic contributor
+657,Professor,1344000,657,328,3285000,6570000,219,average faculty performance
+658,Professor,1346000,658,329,3290000,6580000,219,average faculty performance
+659,Professor,1348000,659,329,3295000,6590000,219,excellent teacher and researcher
+660,Professor,1350000,660,330,3300000,6600000,220,average faculty performance
+661,Professor,1352000,661,330,3305000,6610000,220,poor involvement in research
+662,Professor,1354000,662,331,3310000,6620000,220,average faculty performance
+663,Professor,1356000,663,331,3315000,6630000,221,average faculty performance
+664,Professor,1358000,664,332,3320000,6640000,221,average faculty performance
+665,Professor,1360000,665,332,3325000,6650000,221,poor involvement in research
+666,Professor,1362000,666,333,3330000,6660000,222,average faculty performance
+667,Professor,1364000,667,333,3335000,6670000,222,good academic contributor
+668,Professor,1366000,668,334,3340000,6680000,222,excellent teacher and researcher
+669,Professor,1368000,669,334,3345000,6690000,223,poor involvement in research
+670,Professor,1370000,670,335,3350000,6700000,223,poor involvement in research
+671,Professor,1372000,671,335,3355000,6710000,223,poor involvement in research
+672,Professor,1374000,672,336,3360000,6720000,224,average faculty performance
+673,Professor,1376000,673,336,3365000,6730000,224,poor involvement in research
+674,Professor,1378000,674,337,3370000,6740000,224,poor involvement in research
+675,Professor,1380000,675,337,3375000,6750000,225,excellent teacher and researcher
+676,Professor,1382000,676,338,3380000,6760000,225,average faculty performance
+677,Professor,1384000,677,338,3385000,6770000,225,good academic contributor
+678,Professor,1386000,678,339,3390000,6780000,226,poor involvement in research
+679,Professor,1388000,679,339,3395000,6790000,226,average faculty performance
+680,Professor,1390000,680,340,3400000,6800000,226,good academic contributor
+681,Professor,1392000,681,340,3405000,6810000,227,poor involvement in research
+682,Professor,1394000,682,341,3410000,6820000,227,average faculty performance
+683,Professor,1396000,683,341,3415000,6830000,227,good academic contributor
+684,Professor,1398000,684,342,3420000,6840000,228,average faculty performance
+685,Professor,1400000,685,342,3425000,6850000,228,good academic contributor
+686,Professor,1402000,686,343,3430000,6860000,228,excellent teacher and researcher
+687,Professor,1404000,687,343,3435000,6870000,229,average faculty performance
+688,Professor,1406000,688,344,3440000,6880000,229,average faculty performance
+689,Professor,1408000,689,344,3445000,6890000,229,average faculty performance
+690,Professor,1410000,690,345,3450000,6900000,230,poor involvement in research
+691,Professor,1412000,691,345,3455000,6910000,230,excellent teacher and researcher
+692,Professor,1414000,692,346,3460000,6920000,230,poor involvement in research
+693,Professor,1416000,693,346,3465000,6930000,231,average faculty performance
+694,Professor,1418000,694,347,3470000,6940000,231,average faculty performance
+695,Professor,1420000,695,347,3475000,6950000,231,excellent teacher and researcher
+696,Professor,1422000,696,348,3480000,6960000,232,excellent teacher and researcher
+697,Professor,1424000,697,348,3485000,6970000,232,poor involvement in research
+698,Professor,1426000,698,349,3490000,6980000,232,good academic contributor
+699,Professor,1428000,699,349,3495000,6990000,233,poor involvement in research
+700,Professor,1430000,700,350,3500000,7000000,233,poor involvement in research
+701,Professor,1432000,701,350,3505000,7010000,233,excellent teacher and researcher
+702,Professor,1434000,702,351,3510000,7020000,234,good academic contributor
+703,Professor,1436000,703,351,3515000,7030000,234,good academic contributor
+704,Professor,1438000,704,352,3520000,7040000,234,average faculty performance
+705,Professor,1440000,705,352,3525000,7050000,235,excellent teacher and researcher
+706,Professor,1442000,706,353,3530000,7060000,235,good academic contributor
+707,Professor,1444000,707,353,3535000,7070000,235,poor involvement in research
+708,Professor,1446000,708,354,3540000,7080000,236,good academic contributor
+709,Professor,1448000,709,354,3545000,7090000,236,excellent teacher and researcher
+710,Professor,1450000,710,355,3550000,7100000,236,average faculty performance
+711,Professor,1452000,711,355,3555000,7110000,237,excellent teacher and researcher
+712,Professor,1454000,712,356,3560000,7120000,237,excellent teacher and researcher
+713,Professor,1456000,713,356,3565000,7130000,237,poor involvement in research
+714,Professor,1458000,714,357,3570000,7140000,238,excellent teacher and researcher
+715,Professor,1460000,715,357,3575000,7150000,238,good academic contributor
+716,Professor,1462000,716,358,3580000,7160000,238,good academic contributor
+717,Professor,1464000,717,358,3585000,7170000,239,poor involvement in research
+718,Professor,1466000,718,359,3590000,7180000,239,average faculty performance
+719,Professor,1468000,719,359,3595000,7190000,239,good academic contributor
+720,Professor,1470000,720,360,3600000,7200000,240,good academic contributor
+721,Professor,1472000,721,360,3605000,7210000,240,average faculty performance
+722,Professor,1474000,722,361,3610000,7220000,240,average faculty performance
+723,Professor,1476000,723,361,3615000,7230000,241,average faculty performance
+724,Professor,1478000,724,362,3620000,7240000,241,good academic contributor
+725,Professor,1480000,725,362,3625000,7250000,241,average faculty performance
+726,Professor,1482000,726,363,3630000,7260000,242,excellent teacher and researcher
+727,Professor,1484000,727,363,3635000,7270000,242,poor involvement in research
+728,Professor,1486000,728,364,3640000,7280000,242,good academic contributor
+729,Professor,1488000,729,364,3645000,7290000,243,excellent teacher and researcher
+730,Professor,1490000,730,365,3650000,7300000,243,average faculty performance
+731,Professor,1492000,731,365,3655000,7310000,243,excellent teacher and researcher
+732,Professor,1494000,732,366,3660000,7320000,244,good academic contributor
+733,Professor,1496000,733,366,3665000,7330000,244,good academic contributor
+734,Professor,1498000,734,367,3670000,7340000,244,poor involvement in research
+735,Professor,1500000,735,367,3675000,7350000,245,good academic contributor
+736,Professor,1502000,736,368,3680000,7360000,245,poor involvement in research
+737,Professor,1504000,737,368,3685000,7370000,245,poor involvement in research
+738,Professor,1506000,738,369,3690000,7380000,246,excellent teacher and researcher
+739,Professor,1508000,739,369,3695000,7390000,246,average faculty performance
+740,Professor,1510000,740,370,3700000,7400000,246,average faculty performance
+741,Professor,1512000,741,370,3705000,7410000,247,average faculty performance
+742,Professor,1514000,742,371,3710000,7420000,247,excellent teacher and researcher
+743,Professor,1516000,743,371,3715000,7430000,247,good academic contributor
+744,Professor,1518000,744,372,3720000,7440000,248,good academic contributor
+745,Professor,1520000,745,372,3725000,7450000,248,good academic contributor
+746,Professor,1522000,746,373,3730000,7460000,248,excellent teacher and researcher
+747,Professor,1524000,747,373,3735000,7470000,249,good academic contributor
+748,Professor,1526000,748,374,3740000,7480000,249,average faculty performance
+749,Professor,1528000,749,374,3745000,7490000,249,good academic contributor
+750,Professor,1530000,750,375,3750000,7500000,250,poor involvement in research
+751,Professor,1532000,751,375,3755000,7510000,250,poor involvement in research
+752,Professor,1534000,752,376,3760000,7520000,250,average faculty performance
+753,Professor,1536000,753,376,3765000,7530000,251,average faculty performance
+754,Professor,1538000,754,377,3770000,7540000,251,average faculty performance
+755,Professor,1540000,755,377,3775000,7550000,251,good academic contributor
+756,Professor,1542000,756,378,3780000,7560000,252,excellent teacher and researcher
+757,Professor,1544000,757,378,3785000,7570000,252,excellent teacher and researcher
+758,Professor,1546000,758,379,3790000,7580000,252,average faculty performance
+759,Professor,1548000,759,379,3795000,7590000,253,good academic contributor
+760,Professor,1550000,760,380,3800000,7600000,253,average faculty performance
+761,Professor,1552000,761,380,3805000,7610000,253,poor involvement in research
+762,Professor,1554000,762,381,3810000,7620000,254,average faculty performance
+763,Professor,1556000,763,381,3815000,7630000,254,good academic contributor
+764,Professor,1558000,764,382,3820000,7640000,254,excellent teacher and researcher
+765,Professor,1560000,765,382,3825000,7650000,255,average faculty performance
+766,Professor,1562000,766,383,3830000,7660000,255,excellent teacher and researcher
+767,Professor,1564000,767,383,3835000,7670000,255,excellent teacher and researcher
+768,Professor,1566000,768,384,3840000,7680000,256,excellent teacher and researcher
+769,Professor,1568000,769,384,3845000,7690000,256,average faculty performance
+770,Professor,1570000,770,385,3850000,7700000,256,poor involvement in research
+771,Professor,1572000,771,385,3855000,7710000,257,average faculty performance
+772,Professor,1574000,772,386,3860000,7720000,257,excellent teacher and researcher
+773,Professor,1576000,773,386,3865000,7730000,257,good academic contributor
+774,Professor,1578000,774,387,3870000,7740000,258,good academic contributor
+775,Professor,1580000,775,387,3875000,7750000,258,average faculty performance
+776,Professor,1582000,776,388,3880000,7760000,258,poor involvement in research
+777,Professor,1584000,777,388,3885000,7770000,259,poor involvement in research
+778,Professor,1586000,778,389,3890000,7780000,259,good academic contributor
+779,Professor,1588000,779,389,3895000,7790000,259,good academic contributor
+780,Professor,1590000,780,390,3900000,7800000,260,poor involvement in research
+781,Professor,1592000,781,390,3905000,7810000,260,excellent teacher and researcher
+782,Professor,1594000,782,391,3910000,7820000,260,poor involvement in research
+783,Professor,1596000,783,391,3915000,7830000,261,excellent teacher and researcher
+784,Professor,1598000,784,392,3920000,7840000,261,good academic contributor
+785,Professor,1600000,785,392,3925000,7850000,261,poor involvement in research
+786,Professor,1602000,786,393,3930000,7860000,262,excellent teacher and researcher
+787,Professor,1604000,787,393,3935000,7870000,262,average faculty performance
+788,Professor,1606000,788,394,3940000,7880000,262,average faculty performance
+789,Professor,1608000,789,394,3945000,7890000,263,good academic contributor
+790,Professor,1610000,790,395,3950000,7900000,263,poor involvement in research
+791,Professor,1612000,791,395,3955000,7910000,263,average faculty performance
+792,Professor,1614000,792,396,3960000,7920000,264,good academic contributor
+793,Professor,1616000,793,396,3965000,7930000,264,average faculty performance
+794,Professor,1618000,794,397,3970000,7940000,264,excellent teacher and researcher
+795,Professor,1620000,795,397,3975000,7950000,265,poor involvement in research
+796,Professor,1622000,796,398,3980000,7960000,265,good academic contributor
+797,Professor,1624000,797,398,3985000,7970000,265,average faculty performance
+798,Professor,1626000,798,399,3990000,7980000,266,good academic contributor
+799,Professor,1628000,799,399,3995000,7990000,266,good academic contributor
+800,Professor,1630000,800,400,4000000,8000000,266,excellent teacher and researcher
+801,Professor,1632000,801,400,4005000,8010000,267,poor involvement in research
+802,Professor,1634000,802,401,4010000,8020000,267,good academic contributor
+803,Professor,1636000,803,401,4015000,8030000,267,excellent teacher and researcher
+804,Professor,1638000,804,402,4020000,8040000,268,excellent teacher and researcher
+805,Professor,1640000,805,402,4025000,8050000,268,poor involvement in research
+806,Professor,1642000,806,403,4030000,8060000,268,good academic contributor
+807,Professor,1644000,807,403,4035000,8070000,269,good academic contributor
+808,Professor,1646000,808,404,4040000,8080000,269,average faculty performance
+809,Professor,1648000,809,404,4045000,8090000,269,excellent teacher and researcher
+810,Professor,1650000,810,405,4050000,8100000,270,poor involvement in research
+811,Professor,1652000,811,405,4055000,8110000,270,excellent teacher and researcher
+812,Professor,1654000,812,406,4060000,8120000,270,poor involvement in research
+813,Professor,1656000,813,406,4065000,8130000,271,good academic contributor
+814,Professor,1658000,814,407,4070000,8140000,271,poor involvement in research
+815,Professor,1660000,815,407,4075000,8150000,271,average faculty performance
+816,Professor,1662000,816,408,4080000,8160000,272,average faculty performance
+817,Professor,1664000,817,408,4085000,8170000,272,average faculty performance
+818,Professor,1666000,818,409,4090000,8180000,272,good academic contributor
+819,Professor,1668000,819,409,4095000,8190000,273,average faculty performance
+820,Professor,1670000,820,410,4100000,8200000,273,excellent teacher and researcher
+821,Professor,1672000,821,410,4105000,8210000,273,poor involvement in research
+822,Professor,1674000,822,411,4110000,8220000,274,good academic contributor
+823,Professor,1676000,823,411,4115000,8230000,274,good academic contributor
+824,Professor,1678000,824,412,4120000,8240000,274,average faculty performance
+825,Professor,1680000,825,412,4125000,8250000,275,average faculty performance
+826,Professor,1682000,826,413,4130000,8260000,275,excellent teacher and researcher
+827,Professor,1684000,827,413,4135000,8270000,275,average faculty performance
+828,Professor,1686000,828,414,4140000,8280000,276,good academic contributor
+829,Professor,1688000,829,414,4145000,8290000,276,good academic contributor
+830,Professor,1690000,830,415,4150000,8300000,276,excellent teacher and researcher
+831,Professor,1692000,831,415,4155000,8310000,277,average faculty performance
+832,Professor,1694000,832,416,4160000,8320000,277,excellent teacher and researcher
+833,Professor,1696000,833,416,4165000,8330000,277,poor involvement in research
+834,Professor,1698000,834,417,4170000,8340000,278,excellent teacher and researcher
+835,Professor,1700000,835,417,4175000,8350000,278,average faculty performance
+836,Professor,1702000,836,418,4180000,8360000,278,excellent teacher and researcher
+837,Professor,1704000,837,418,4185000,8370000,279,excellent teacher and researcher
+838,Professor,1706000,838,419,4190000,8380000,279,good academic contributor
+839,Professor,1708000,839,419,4195000,8390000,279,excellent teacher and researcher
+840,Professor,1710000,840,420,4200000,8400000,280,poor involvement in research
+841,Professor,1712000,841,420,4205000,8410000,280,excellent teacher and researcher
+842,Professor,1714000,842,421,4210000,8420000,280,poor involvement in research
+843,Professor,1716000,843,421,4215000,8430000,281,excellent teacher and researcher
+844,Professor,1718000,844,422,4220000,8440000,281,average faculty performance
+845,Professor,1720000,845,422,4225000,8450000,281,good academic contributor
+846,Professor,1722000,846,423,4230000,8460000,282,good academic contributor
+847,Professor,1724000,847,423,4235000,8470000,282,average faculty performance
+848,Professor,1726000,848,424,4240000,8480000,282,poor involvement in research
+849,Professor,1728000,849,424,4245000,8490000,283,average faculty performance
+850,Professor,1730000,850,425,4250000,8500000,283,excellent teacher and researcher
+851,Professor,1732000,851,425,4255000,8510000,283,average faculty performance
+852,Professor,1734000,852,426,4260000,8520000,284,good academic contributor
+853,Professor,1736000,853,426,4265000,8530000,284,average faculty performance
+854,Professor,1738000,854,427,4270000,8540000,284,good academic contributor
+855,Professor,1740000,855,427,4275000,8550000,285,good academic contributor
+856,Professor,1742000,856,428,4280000,8560000,285,good academic contributor
+857,Professor,1744000,857,428,4285000,8570000,285,average faculty performance
+858,Professor,1746000,858,429,4290000,8580000,286,excellent teacher and researcher
+859,Professor,1748000,859,429,4295000,8590000,286,good academic contributor
+860,Professor,1750000,860,430,4300000,8600000,286,excellent teacher and researcher
+861,Professor,1752000,861,430,4305000,8610000,287,poor involvement in research
+862,Professor,1754000,862,431,4310000,8620000,287,poor involvement in research
+863,Professor,1756000,863,431,4315000,8630000,287,average faculty performance
+864,Professor,1758000,864,432,4320000,8640000,288,average faculty performance
+865,Professor,1760000,865,432,4325000,8650000,288,poor involvement in research
+866,Professor,1762000,866,433,4330000,8660000,288,excellent teacher and researcher
+867,Professor,1764000,867,433,4335000,8670000,289,poor involvement in research
+868,Professor,1766000,868,434,4340000,8680000,289,good academic contributor
+869,Professor,1768000,869,434,4345000,8690000,289,good academic contributor
+870,Professor,1770000,870,435,4350000,8700000,290,average faculty performance
+871,Professor,1772000,871,435,4355000,8710000,290,good academic contributor
+872,Professor,1774000,872,436,4360000,8720000,290,excellent teacher and researcher
+873,Professor,1776000,873,436,4365000,8730000,291,poor involvement in research
+874,Professor,1778000,874,437,4370000,8740000,291,good academic contributor
+875,Professor,1780000,875,437,4375000,8750000,291,average faculty performance
+876,Professor,1782000,876,438,4380000,8760000,292,excellent teacher and researcher
+877,Professor,1784000,877,438,4385000,8770000,292,poor involvement in research
+878,Professor,1786000,878,439,4390000,8780000,292,poor involvement in research
+879,Professor,1788000,879,439,4395000,8790000,293,average faculty performance
+880,Professor,1790000,880,440,4400000,8800000,293,poor involvement in research
+881,Professor,1792000,881,440,4405000,8810000,293,excellent teacher and researcher
+882,Professor,1794000,882,441,4410000,8820000,294,excellent teacher and researcher
+883,Professor,1796000,883,441,4415000,8830000,294,good academic contributor
+884,Professor,1798000,884,442,4420000,8840000,294,good academic contributor
+885,Professor,1800000,885,442,4425000,8850000,295,good academic contributor
+886,Professor,1802000,886,443,4430000,8860000,295,poor involvement in research
+887,Professor,1804000,887,443,4435000,8870000,295,poor involvement in research
+888,Professor,1806000,888,444,4440000,8880000,296,good academic contributor
+889,Professor,1808000,889,444,4445000,8890000,296,excellent teacher and researcher
+890,Professor,1810000,890,445,4450000,8900000,296,excellent teacher and researcher
+891,Professor,1812000,891,445,4455000,8910000,297,good academic contributor
+892,Professor,1814000,892,446,4460000,8920000,297,good academic contributor
+893,Professor,1816000,893,446,4465000,8930000,297,excellent teacher and researcher
+894,Professor,1818000,894,447,4470000,8940000,298,average faculty performance
+895,Professor,1820000,895,447,4475000,8950000,298,average faculty performance
+896,Professor,1822000,896,448,4480000,8960000,298,good academic contributor
+897,Professor,1824000,897,448,4485000,8970000,299,poor involvement in research
+898,Professor,1826000,898,449,4490000,8980000,299,poor involvement in research
+899,Professor,1828000,899,449,4495000,8990000,299,average faculty performance
+900,Professor,1830000,900,450,4500000,9000000,300,good academic contributor
+901,Professor,1832000,901,450,4505000,9010000,300,poor involvement in research
+902,Professor,1834000,902,451,4510000,9020000,300,good academic contributor
+903,Professor,1836000,903,451,4515000,9030000,301,excellent teacher and researcher
+904,Professor,1838000,904,452,4520000,9040000,301,good academic contributor
+905,Professor,1840000,905,452,4525000,9050000,301,average faculty performance
+906,Professor,1842000,906,453,4530000,9060000,302,average faculty performance
+907,Professor,1844000,907,453,4535000,9070000,302,excellent teacher and researcher
+908,Professor,1846000,908,454,4540000,9080000,302,good academic contributor
+909,Professor,1848000,909,454,4545000,9090000,303,good academic contributor
+910,Professor,1850000,910,455,4550000,9100000,303,average faculty performance
+911,Professor,1852000,911,455,4555000,9110000,303,average faculty performance
+912,Professor,1854000,912,456,4560000,9120000,304,average faculty performance
+913,Professor,1856000,913,456,4565000,9130000,304,excellent teacher and researcher
+914,Professor,1858000,914,457,4570000,9140000,304,good academic contributor
+915,Professor,1860000,915,457,4575000,9150000,305,average faculty performance
+916,Professor,1862000,916,458,4580000,9160000,305,excellent teacher and researcher
+917,Professor,1864000,917,458,4585000,9170000,305,good academic contributor
+918,Professor,1866000,918,459,4590000,9180000,306,average faculty performance
+919,Professor,1868000,919,459,4595000,9190000,306,good academic contributor
+920,Professor,1870000,920,460,4600000,9200000,306,excellent teacher and researcher
+921,Professor,1872000,921,460,4605000,9210000,307,excellent teacher and researcher
+922,Professor,1874000,922,461,4610000,9220000,307,excellent teacher and researcher
+923,Professor,1876000,923,461,4615000,9230000,307,poor involvement in research
+924,Professor,1878000,924,462,4620000,9240000,308,poor involvement in research
+925,Professor,1880000,925,462,4625000,9250000,308,good academic contributor
+926,Professor,1882000,926,463,4630000,9260000,308,average faculty performance
+927,Professor,1884000,927,463,4635000,9270000,309,average faculty performance
+928,Professor,1886000,928,464,4640000,9280000,309,average faculty performance
+929,Professor,1888000,929,464,4645000,9290000,309,average faculty performance
+930,Professor,1890000,930,465,4650000,9300000,310,good academic contributor
+931,Professor,1892000,931,465,4655000,9310000,310,good academic contributor
+932,Professor,1894000,932,466,4660000,9320000,310,excellent teacher and researcher
+933,Professor,1896000,933,466,4665000,9330000,311,average faculty performance
+934,Professor,1898000,934,467,4670000,9340000,311,average faculty performance
+935,Professor,1900000,935,467,4675000,9350000,311,good academic contributor
+936,Professor,1902000,936,468,4680000,9360000,312,poor involvement in research
+937,Professor,1904000,937,468,4685000,9370000,312,poor involvement in research
+938,Professor,1906000,938,469,4690000,9380000,312,excellent teacher and researcher
+939,Professor,1908000,939,469,4695000,9390000,313,poor involvement in research
+940,Professor,1910000,940,470,4700000,9400000,313,poor involvement in research
+941,Professor,1912000,941,470,4705000,9410000,313,good academic contributor
+942,Professor,1914000,942,471,4710000,9420000,314,average faculty performance
+943,Professor,1916000,943,471,4715000,9430000,314,poor involvement in research
+944,Professor,1918000,944,472,4720000,9440000,314,excellent teacher and researcher
+945,Professor,1920000,945,472,4725000,9450000,315,average faculty performance
+946,Professor,1922000,946,473,4730000,9460000,315,average faculty performance
+947,Professor,1924000,947,473,4735000,9470000,315,good academic contributor
+948,Professor,1926000,948,474,4740000,9480000,316,good academic contributor
+949,Professor,1928000,949,474,4745000,9490000,316,good academic contributor
+950,Professor,1930000,950,475,4750000,9500000,316,good academic contributor
+951,Professor,1932000,951,475,4755000,9510000,317,good academic contributor
+952,Professor,1934000,952,476,4760000,9520000,317,good academic contributor
+953,Professor,1936000,953,476,4765000,9530000,317,good academic contributor
+954,Professor,1938000,954,477,4770000,9540000,318,excellent teacher and researcher
+955,Professor,1940000,955,477,4775000,9550000,318,average faculty performance
+956,Professor,1942000,956,478,4780000,9560000,318,good academic contributor
+957,Professor,1944000,957,478,4785000,9570000,319,poor involvement in research
+958,Professor,1946000,958,479,4790000,9580000,319,average faculty performance
+959,Professor,1948000,959,479,4795000,9590000,319,excellent teacher and researcher
+960,Professor,1950000,960,480,4800000,9600000,320,average faculty performance
+961,Professor,1952000,961,480,4805000,9610000,320,poor involvement in research
+962,Professor,1954000,962,481,4810000,9620000,320,average faculty performance
+963,Professor,1956000,963,481,4815000,9630000,321,good academic contributor
+964,Professor,1958000,964,482,4820000,9640000,321,good academic contributor
+965,Professor,1960000,965,482,4825000,9650000,321,average faculty performance
+966,Professor,1962000,966,483,4830000,9660000,322,good academic contributor
+967,Professor,1964000,967,483,4835000,9670000,322,average faculty performance
+968,Professor,1966000,968,484,4840000,9680000,322,excellent teacher and researcher
+969,Professor,1968000,969,484,4845000,9690000,323,poor involvement in research
+970,Professor,1970000,970,485,4850000,9700000,323,excellent teacher and researcher
+971,Professor,1972000,971,485,4855000,9710000,323,average faculty performance
+972,Professor,1974000,972,486,4860000,9720000,324,excellent teacher and researcher
+973,Professor,1976000,973,486,4865000,9730000,324,excellent teacher and researcher
+974,Professor,1978000,974,487,4870000,9740000,324,average faculty performance
+975,Professor,1980000,975,487,4875000,9750000,325,average faculty performance
+976,Professor,1982000,976,488,4880000,9760000,325,excellent teacher and researcher
+977,Professor,1984000,977,488,4885000,9770000,325,poor involvement in research
+978,Professor,1986000,978,489,4890000,9780000,326,excellent teacher and researcher
+979,Professor,1988000,979,489,4895000,9790000,326,average faculty performance
+980,Professor,1990000,980,490,4900000,9800000,326,good academic contributor
+981,Professor,1992000,981,490,4905000,9810000,327,excellent teacher and researcher
+982,Professor,1994000,982,491,4910000,9820000,327,good academic contributor
+983,Professor,1996000,983,491,4915000,9830000,327,excellent teacher and researcher
+984,Professor,1998000,984,492,4920000,9840000,328,average faculty performance
+985,Professor,2000000,985,492,4925000,9850000,328,poor involvement in research
+986,Professor,2002000,986,493,4930000,9860000,328,poor involvement in research
+987,Professor,2004000,987,493,4935000,9870000,329,poor involvement in research
+988,Professor,2006000,988,494,4940000,9880000,329,poor involvement in research
+989,Professor,2008000,989,494,4945000,9890000,329,good academic contributor
+990,Professor,2010000,990,495,4950000,9900000,330,excellent teacher and researcher
+991,Professor,2012000,991,495,4955000,9910000,330,poor involvement in research
+992,Professor,2014000,992,496,4960000,9920000,330,excellent teacher and researcher
+993,Professor,2016000,993,496,4965000,9930000,331,average faculty performance
+994,Professor,2018000,994,497,4970000,9940000,331,average faculty performance
+995,Professor,2020000,995,497,4975000,9950000,331,poor involvement in research
+996,Professor,2022000,996,498,4980000,9960000,332,poor involvement in research
+997,Professor,2024000,997,498,4985000,9970000,332,good academic contributor
+998,Professor,2026000,998,499,4990000,9980000,332,excellent teacher and researcher
+999,Professor,2028000,999,499,4995000,9990000,333,poor involvement in research
+1000,Professor,2030000,1000,500,5000000,10000000,333,poor involvement in research
